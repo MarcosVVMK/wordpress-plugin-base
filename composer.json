@@ -1,0 +1,16 @@
+{
+    "name": "indexis/IDX-magazine",
+    "description": "Plugin",
+    "authors": [
+        {
+            "name": "Marcos Matos",
+            "email": "contato@indexis.com.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
